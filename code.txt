@@ -5,7 +5,7 @@
 <stong><h1>hi iam rasmitha</h1></strong>
 <ul>
   <li>mahathi</li>
-  <li>ranga</li>
+  <li>samudrala</li>
 </ul>
 </body>
 </html>
